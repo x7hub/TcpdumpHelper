@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tcpdump</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="button_copy">Copy tcpdump</string>
+    <string name="button_remove">Remove tcpdump</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+
+    <string name="exit">exit?</string>
+</resources>
